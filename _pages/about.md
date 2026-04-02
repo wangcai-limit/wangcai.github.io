@@ -33,7 +33,7 @@ Currently, I am dedicated to mapping advanced AI algorithms onto novel hardware 
   - *Research on Information Processing Technology Based on Memristive Bayesian Deep Neural Networks*
   - Investigated the implementation of Bayesian uncertainty on memristive hardware to improve the reliability of neuromorphic systems.
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - **National Scholarship**, 2025
 - **Provincial Government Scholarship**, 2024
 

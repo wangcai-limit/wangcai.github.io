@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Caiyuan Wang"
-description              : "Born in 2006, Shanxi, China. Master Student at Beihang University, Research Interests: Neuromorphic Computing"
+description              : "Born in 2006, Shanxi, China."
 repository               : "wangcai06/wangcai06.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -10,6 +10,7 @@ google_analytics_id      : # 暂时留空，有需要再填
 # Site Author
 author:
   name               : "Caiyuan Wang"
+  avatar             : "images/my_photo.jpg"
   bio                : "Master Student at Beihang University"
   location           : "Beijing, China"
   employer           : "Beihang University"

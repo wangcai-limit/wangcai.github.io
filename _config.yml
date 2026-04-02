@@ -11,7 +11,7 @@ google_analytics_id      : # 暂时留空，有需要再填
 author:
   name               : "Caiyuan Wang"
   avatar             : "images/my_photo.jpg"
-  bio                : "Master Student at Beihang University"
+  bio                : "Graduate Student at Beihang University"
   location           : "Beijing, China"
   employer           : "Beihang University"
   googlescholar      : # 既然没发论文，可以先空着，或者填你的 Google Scholar 主页链接

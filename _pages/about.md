@@ -39,7 +39,7 @@ Currently, I am dedicated to mapping advanced AI algorithms onto novel hardware 
 - **Provincial Government Scholarship**, 2024
 
 # 📖 Education
-- *2026.09 - *, **Beihang University**
+- *2026.09*, **Beihang University**
 
 # 💻 Skills
 - **Programming:** Python, JAVA

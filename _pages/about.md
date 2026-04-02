@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍🎓 About Me
-I am a Master student at **Beihang University**, specializing in **Neuromorphic Computing**. My research focuses on the deep integration of **Artificial Intelligence (AI) algorithms** and **Neuromorphic devices**, particularly the hardware implementation of mainstream AI algorithms leveraging **SOT-MRAM** and **Memristors**. 
+I am a graduate student at **Beihang University**, specializing in **Neuromorphic Computing**. My research focuses on the deep integration of **Artificial Intelligence (AI) algorithms** and **Neuromorphic devices**, particularly the hardware implementation of mainstream AI algorithms leveraging **SOT-MRAM** and **Memristors**. 
 
 Currently, I am dedicated to mapping advanced AI algorithms onto novel hardware architectures to achieve high robustness and energy efficiency. In addition, I have a strong interest in **Recommender Systems (RecSys)**. 
 
